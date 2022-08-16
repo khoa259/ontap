@@ -3,6 +3,7 @@ import Head from 'next/head'
 import Image from 'next/image'
 import { Counter } from '../features/Counter/Counter'
 import styles from '../styles/Home.module.css'
+import ListProducts from './products'
 
 const Home: NextPage = () => {
   return (
@@ -13,8 +14,8 @@ const Home: NextPage = () => {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main className={styles.main}>
-        <Counter />
+      <main>
+      <ListProducts/>
       </main>
     </div>
   )

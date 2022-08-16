@@ -1,4 +1,26 @@
 {
-    "products": [],
-    "users": []
+  "products": [
+    {
+      "id": 3,
+      "name": "products A",
+      "img": "https://jes.edu.vn/wp-content/uploads/2017/10/h%C3%ACnh-%E1%BA%A3nh.jpg",
+      "price": 5000,
+      "desc": "mota"
+    },
+    {
+      "name": "ádasdasdasdas update 123",
+      "img": "https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bGVuc3xlbnwwfHwwfHw%3D&w=1000&q=80",
+      "price": "12334",
+      "desc": "ádas",
+      "id": 6
+    },
+    {
+      "name": "toai ngu rat ngu",
+      "img": "https://scontent.fhan14-2.fna.fbcdn.net/v/t31.18172-8/23674736_552775461738409_3026243183211073246_o.jpg?_nc_cat=108&ccb=1-7&_nc_sid=730e14&_nc_ohc=KV0b_3LKDpMAX-UH67m&_nc_ht=scontent.fhan14-2.fna&oh=00_AT9ibiIRZMeFyTXsGn1oxlZresqqWTskIkDiyl6LLRkN_A&oe=63219D59",
+      "price": "12",
+      "desc": "toai ngu 1",
+      "id": 7
+    }
+  ],
+  "users": []
 }

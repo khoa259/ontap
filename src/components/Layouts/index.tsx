@@ -1,9 +1,11 @@
 import { LayoutProps } from "@/models/Layout";
 import React from "react";
+import NavBar from "../NavBar";
 
 const Layout = ({ children }: LayoutProps) => {
     return (
         <div>
+            <NavBar/>
             {children}
         </div>
     );
